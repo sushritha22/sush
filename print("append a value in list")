@@ -1,0 +1,5 @@
+mylist=["pineapple","apple","orange"]
+print(mylist)
+print("append a value in list")
+mylist.append("strawberry")
+print(mylist)
