@@ -1,0 +1,4 @@
+mytuple=("machine learning","ai","coding")
+print(mytuple)
+print("accessing elements from a tuple")
+print(mytuple[1])
