@@ -1,0 +1,5 @@
+mydict={"fav":"python","lessfav":"java"}
+print(mydict)
+print("deleting an element")
+del mydict["fav"]
+print(mydict)
